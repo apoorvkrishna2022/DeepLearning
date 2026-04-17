@@ -1,5 +1,5 @@
 [project]
-name = "perceptron-learning"
+name = "deeplearning"
 version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.11"
